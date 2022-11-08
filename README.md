@@ -1,2 +1,2 @@
-# cs
-self-learning computer science
+# My path to learning computer science
+...
